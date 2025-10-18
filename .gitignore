@@ -1,0 +1,38 @@
+# Dependency directories
+node_modules
+/.pnp
+.pnp.js
+
+# Production build directory
+/build
+
+# Development files
+/.vscode
+/.idea
+/.env
+
+# Environment variables
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+
+# Logs and runtime data
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+/.sourcemaps
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Jest coverage reports
+/coverage
+
+# Build artifacts
+/dist
